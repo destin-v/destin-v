@@ -6,4 +6,4 @@
 </figure>
 
 # Skills
-!\[skill-python\](https://badgen.net/badge/static/python/★★★★★)
+!\[my badge\](https://badgen.net/badge/static/python/★★★★★)
