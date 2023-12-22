@@ -4,3 +4,6 @@
     </p>
   <figcaption align = "center"></figcaption>
 </figure>
+
+# Skills
+!\[skill-python\](https://badgen.net/badge/static/python/★★★★★)
