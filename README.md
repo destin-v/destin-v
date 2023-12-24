@@ -22,7 +22,6 @@
 
 ---
 # 📚 Skills
-
 | General                                                                 | Coding                                              | Software                                                        | Cloud / HPC / Containerization                           |
 | :---------------------------------------------------------------------- | :-------------------------------------------------- | :-------------------------------------------------------------- | :------------------------------------------------------- |
 | ![badge](https://badgen.net/static/Reinforcement%20Learning/★★★★/green) | ![badge](https://badgen.net/static/Python/★★★★)     | ![badge](https://badgen.net/static/VSCode/★★★★/red)             | ![badge](https://badgen.net/static/AWS/★★☆☆/cyan)        |
@@ -34,3 +33,13 @@
 | ![badge](https://badgen.net/static/Cinematography/★★☆☆/green)           | ![badge](https://badgen.net/static/Git/★★☆☆)        | ![badge](https://badgen.net/static/Linux%20OS/★★☆☆/red)         |                                                          |
 | ![badge](https://badgen.net/static/Economics/★★☆☆/green)                |                                                     |                                                                 |                                                          |
 | ![badge](https://badgen.net/static/Philosophy/★★☆☆/green)               |                                                     |                                                                 |                                                          |
+
+# Select Papers
+
+* **Li, W.**, Tatusko, J. “Model Zero - Reinforcement Learning for Policy Transfer into High-Fidelity Environments,” Small Business Innovation Research (SBIR). (2021) [**Video**](https://youtu.be/UMNB7BvNFEE?t=15309)
+
+* Gardner, R. W., Richardson, C., Lowman, C. Llorens, A. J., Newman, A., Jamgochian A., Markowitz, J., Drenkow, N., **Li, W.**, Neller, T. W., Arora, R., Li, B., Kochenderfer, M. J., Lee, R. “Reconnaissance Blind Chess: A Challenge for Making Optimal Decision Under Uncertainty,” Neural Information Processing Systems. (2019) [**Link**](https://rbc.jhuapl.edu/) / [**Video**](https://slideslive.com/38923177/reconnaissance-blind-chess-competition)
+
+* **Li, W.**, Richardson, C., Gardner R. “Reconnaissance Chess: Reinforcement Learning Exploration.” Johns Hopkins University Applied Physics Laboratory. (2018) [**Link**](https://drive.google.com/file/d/1TDix24pgtkuxHP5bmJ0f3DxNsUhn9t6v/view?usp=sharing)
+
+* **Li, W.**, “Reconnaissance Blind Multi-Chess: Petrosian Algorithm.” Johns Hopkins University Applied Physics Laboratory. (2017) [**Link**](https://drive.google.com/file/d/1kkg_65ykMtjbMPKZrFET-JNhcIh2SP14/view?usp=sharing)
