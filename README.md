@@ -6,7 +6,7 @@
 </figure>
 
 # ✨ Description
-🌱 I am a researcher working on reinforcement learning applications.
+🌱 I am a researcher working on projects that interest me.
 
 🌱 I have worked for academic institutions as well as start-ups.
 
