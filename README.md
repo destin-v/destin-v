@@ -13,7 +13,7 @@ I am a researcher working on reinforcement learning applications.
 [![BuyMeCoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]()
 
 ---
-### Technical
+## Technical
 ![my badge](https://badgen.net/static/Reinforcement%20Learning/★★★★)
 ![my badge](https://badgen.net/static/Machine%20Learning/★★★☆)
 ![my badge](https://badgen.net/static/Bayesian%20Probability/★★★☆)
@@ -23,15 +23,18 @@ I am a researcher working on reinforcement learning applications.
 ![my badge](https://badgen.net/static/Cinematography/★★☆☆)
 ![my badge](https://badgen.net/static/Economics/★★☆☆)
 
-### Coding
+## Coding
 ![my badge](https://badgen.net/static/Python/★★★★)
 ![my badge](https://badgen.net/static/MATLAB/★★★☆)
 ![my badge](https://badgen.net/static/Ray/★★★☆)
-![my badge](https://badgen.net/static/Stable%20Baselines/★★★☆)
 ![my badge](https://badgen.net/static/PyTorch/★★☆☆)
 ![my badge](https://badgen.net/static/Tensorflow/★★☆☆)
 ![my badge](https://badgen.net/static/LaTeX/★★☆☆)
 ![my badge](https://badgen.net/static/Git/★★☆☆)
+
+## Modules
+![my badge](https://badgen.net/static/RLLib/★★★☆)
+![my badge](https://badgen.net/static/Stable%20Baselines/★★★☆)
 
 ## Software
 ![my badge](https://badgen.net/static/VSCode/★★★★)
