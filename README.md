@@ -1,8 +1,7 @@
 <figure>
     <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1yFte-RASCcF1ahkYg1Jybavi-gWje8kp" alt="drawing" width="600"/>
+      <img src="https://drive.google.com/uc?export=view&id=1yFte-RASCcF1ahkYg1Jybavi-gWje8kp" alt="drawing" width="600"/>
     </p>
-  <figcaption align = "center"></figcaption>
 </figure>
 
 # ✨ Description
@@ -14,12 +13,12 @@
 
 # 🔗 Links
 
-<div style="text-align: center;">
+<div align="center">
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/destin-v) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-li1)
-[![GoogleDrive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Ikf5t2HPSqViAnzc1mBZyH-V4iXWZSn3)
-[![BuyMeCoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]()
+  <a href="https://github.com/destin-v">![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/william-li1">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://drive.google.com/drive/folders/1Ikf5t2HPSqViAnzc1mBZyH-V4iXWZSn3">![example3](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)</a>
+  <a href="">![example3](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)</a>
 
 </div>
 
