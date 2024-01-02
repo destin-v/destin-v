@@ -1,17 +1,8 @@
 <figure>
     <p align="center">
-      <img src="https://drive.google.com/uc?export=view&id=1yFte-RASCcF1ahkYg1Jybavi-gWje8kp" alt="drawing" width="600"/>
+    <img src="https://drive.google.com/uc?export=view&id=1yFte-RASCcF1ahkYg1Jybavi-gWje8kp" alt="drawing" width="600"/>
     </p>
 </figure>
-
-# ✨ Description
-🌱 I am a researcher working on projects that interest me.
-
-🌱 I have worked for academic institutions as well as start-ups.
-
-🌱 Have fun checking out my repos.
-
-# 🔗 Links
 
 <div align="center">
 
@@ -21,6 +12,13 @@
   <a href="">![example3](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)</a>
 
 </div>
+
+# ✨ Description
+🌱 I am a researcher working on projects that interest me.
+
+🌱 I have worked for academic institutions as well as start-ups.
+
+🌱 Have fun checking out my repos.
 
 ---
 # 📚 Skills
