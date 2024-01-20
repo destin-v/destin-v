@@ -27,7 +27,7 @@
 | ![badge](https://badgen.net/static/Kalman%20Filters/★★★☆/green)         | ![badge](https://badgen.net/static/PyTorch/★★☆☆)    | ![badge](https://badgen.net/static/JIRA/★☆☆☆/red)               | ![badge](https://badgen.net/static/Docker/★★☆☆/cyan)         |
 | ![badge](https://badgen.net/static/Mathematics/★★★☆/green)              | ![badge](https://badgen.net/static/Tensorflow/★★☆☆) |                                                                 | ![badge](https://badgen.net/static/Apptainer/★★☆☆/cyan)      |
 | ![badge](https://badgen.net/static/Computer%20Science/★★☆☆/green)       | ![badge](https://badgen.net/static/LaTeX/★★☆☆)      | ![badge](https://badgen.net/static/Mac%20OS/★★★★/red)           | ![badge](https://badgen.net/static/Kubernetes/★☆☆☆/cyan)     |
-| ![badge](https://badgen.net/static/Cinematography/★★☆☆/green)           | ![badge](https://badgen.net/static/Git/★★☆☆)        | ![badge](https://badgen.net/static/Linux%20OS/★★☆☆/red)         |                                                              |
+| ![badge](https://badgen.net/static/Cinematography/★★☆☆/green)           | ![badge](https://badgen.net/static/Git/★★☆☆)        | ![badge](https://badgen.net/static/Linux%20OS/★★★☆/red)         |                                                              |
 | ![badge](https://badgen.net/static/Economics/★★☆☆/green)                | ![badge](https://badgen.net/static/Bash/★☆☆☆)       | ![badge](https://badgen.net/static/Windows%20OS/★☆☆☆/red)       | ![badge](https://badgen.net/static/Raspberry%20Pi/★★☆☆/cyan) |
 
 # Select Papers
